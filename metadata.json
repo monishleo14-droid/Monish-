@@ -1,0 +1,11 @@
+{
+  "name": "Deepfake Detector",
+  "description": "AI-powered multimodal deepfake detection and digital forensics analysis for images, videos, audio, and live camera feeds.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
